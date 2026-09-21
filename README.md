@@ -16,7 +16,7 @@ This project explores the NHS Referral to Treatment (RTT) waiting list using **P
 
 Provides an executive overview of provider performance measured against the NHS Constitutional Standard.  
 
-![Confusion Matrix](images/RTT_performance.png)  
+![RTT_performance](images/RTT_Performance.png)  
 
 ### National RTT Overview
 
