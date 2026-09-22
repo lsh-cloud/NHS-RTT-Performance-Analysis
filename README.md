@@ -28,5 +28,6 @@ Allows detailed analysis of the individual specialities.
 
 ## Data Source
 
-- The raw data is publicly available from ... and was transformed using **Power Query***. 
-- The data was modelled using a star schema with 4 dimension tables for details about date, provider, speciality and RTT pathway type. 
+- The raw data is publicly available from https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/rtt-data-2025-26/ and was transformed using **Power Query***. 
+- The data was modelled using a star schema with 4 dimension tables for details about date, provider, speciality and RTT pathway type.
+- The relationships were optimised for time intelligence calculations, as well as for proving benchmarks for both specialities and providers.  
