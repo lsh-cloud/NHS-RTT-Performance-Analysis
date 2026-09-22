@@ -26,6 +26,12 @@ Provides a national view of waiting list growth and service pressures.
 
 Allows detailed analysis of the individual specialities. 
 
+## Insights Derived From Report
+
+- This report allows the user to identify which providers are meeting the NHS Constitutional Standard, and provides further detail into what percentage of patients are seen within 18 weeks.
+- The number of patients on the waiting list for over 18 weeks and overall is explored, showcasing which providers and specialities have the longest waiting lists.
+- Investigates changes in waiting list times over a 12 month period.  
+
 ## Data Source
 
 - The raw data is publicly available from https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/rtt-data-2025-26/ and was transformed using **Power Query***. 
