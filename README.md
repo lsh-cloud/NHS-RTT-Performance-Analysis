@@ -27,3 +27,6 @@ Provides a national view of waiting list growth and service pressures.
 Allows detailed analysis of the individual specialities. 
 
 ## Data Source
+
+- The raw data is publicly available from ... and was transformed using **Power Query***. 
+- The data was modelled using a star schema with 4 dimension tables for details about date, provider, speciality and RTT pathway type. 
