@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project explores the NHS Referral to Treatment (RTT) waiting list using **Power BI**. In particular this report allows the user to explore which providers are meeting the NHS Constitutional Standard of seeing 92% of patients within 18 weeks, and which specialities are performing well.
+This project explores the NHS Referral to Treatment (RTT) waiting list using **Power BI**. In particular, this report allows users to explore which providers are meeting the NHS Constitutional Standard of treating 92% of patients within 18 weeks and which specialities are performing well.
 
 ## Tools Used
 
