@@ -32,12 +32,12 @@ Allows detailed analysis of the individual specialities.
 
 ## Insights Derived From Report
 
-- This report allows the user to identify which providers are meeting the NHS Constitutional Standard, and provides further detail into what percentage of patients are seen within 18 weeks.
+- This report allows users to identify which providers are meeting the NHS Constitutional Standard and provides further detail on the percentage of patients seen within 18 weeks.
 - The number of patients on the waiting list for over 18 weeks and overall is explored, showcasing which providers and specialities have the longest waiting lists.
 - Investigates changes in waiting list times over a 12 month period.  
 
 ## Data Source
 
-- The raw data is publicly available from https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/rtt-data-2025-26/ and was transformed using **Power Query**. The dates were from April 2025 to March 2026. 
-- The data was modelled using a star schema with 4 dimension tables for details about date, provider, speciality and RTT pathway type.
-- The relationships were optimised for time intelligence calculations, as well as for proving benchmarks for both specialities and providers.  
+- The raw data is publicly available from https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/rtt-data-2025-26/ and was transformed using **Power Query**. The dataset covers the period from April 2025 to March 2026. 
+- The data was modelled using a star schema with four dimension tables for details about date, provider, speciality and RTT pathway type.
+- The relationships were optimised for time intelligence calculations, as well as for providing benchmarks for both specialities and providers.  
